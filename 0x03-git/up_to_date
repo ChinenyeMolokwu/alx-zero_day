@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ls -l /root/0x03_vi/inserting
+=======
+echo > up_to_date
+>>>>>>> 3964bb5fef88f2efd630a13a03b7c71ed525da74
